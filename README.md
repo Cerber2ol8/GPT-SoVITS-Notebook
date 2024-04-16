@@ -22,7 +22,7 @@
 ### 2.1 人声音频提取和增强
 
 使用 UVR5 进行人声/伴奏分离和混响移除，该部分建议使用 https://github.com/Anjok07/ultimatevocalremovergui 项目在本地进行
-![image.png](attachment:64b792c2-fd17-4529-b40a-d2b4fa70d111.png)
+![image.png](picture/UVR5.png)
 
 
 ### 2.2 人声切分

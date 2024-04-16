@@ -4,7 +4,7 @@
 
 ### 1.1 项目说明
 
-本项目基于开源项目 https://github.com/RVC-Boss/GPT-SoVITS 改动而成，该项目可以做到强大的少样本语音转换与语音合成，并提供了webUI支持。
+本项目基于开源项目 https://github.com/RVC-Boss/GPT-SoVITS 改动而成，该项目可以做到强大的少样本语音转换与语音合成，但只提供了webUI和api支持，并没有notebook和cli实现。
 
 本项目在原始项目中添加了cli训练-推理脚本，并且添加该notebook文档，通过该文档能够实现整个数据处理、微调训练、推理语音合成的工作流。
 
